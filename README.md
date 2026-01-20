@@ -4,4 +4,4 @@ I study how intelligence emerges and how communities scale — neural networks, 
 
 Stack: python, pytorch, jax, cuda, c/c++, rust, sql, unix, git, distributed systems, deep learning, mlops, cloud, product, strategy, operations, organizational design, community building, research
 
-Reverse-engineering institutions and intelligent systems to understand how capability organizes — and how it compounds when nothing is dropped.
+Reverse-engineering intelligent systems to understand how capability organizes — and how it compounds when nothing is dropped. 
